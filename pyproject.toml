@@ -1,0 +1,13 @@
+[project]
+name = "projetoecommerceagente"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.3",
+    "plotly>=6.7.0",
+    "psycopg2-binary>=2.9.12",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.57.0",
+]
