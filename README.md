@@ -1,5 +1,17 @@
 # 📊 E-commerce Analytics Dashboard
 
+> **Este projeto faz parte de um ecossistema completo de dados para e-commerce.**
+>
+> A engenharia de dados (ingestão, modelagem e transformação Bronze → Silver → Gold) foi desenvolvida no projeto **E-commerce Data Platform**, que serve como fundação analítica para este dashboard.
+>
+> O dashboard consome os **Data Marts Gold** produzidos pela plataforma para disponibilizar KPIs executivos e visualizações em tempo real para áreas de negócio.
+>
+> **Projetos relacionados:**
+>
+> * **Data Platform (engenharia de dados):** https://github.com/Jpmelof2/projeto-ecommerce-data-platform
+> * **IA Agent (consultas em linguagem natural):** https://github.com/Jpmelof2/projeto-ecommerce-agente-ia
+
+
 Dashboard executivo para análise de performance de um e-commerce, construído sobre uma **arquitetura Medalhão completa** (Bronze → Silver → Gold) com dbt e Supabase.
 
 O projeto vai além de um dashboard: ele demonstra um **pipeline de dados de ponta a ponta** — da ingestão e modelagem até o consumo visual por diretores de negócio.
@@ -222,7 +234,7 @@ uv run dbt docs serve   # Abre documentação no navegador
 
 Este projeto evoluiu para um **agente de IA** que permite consultar os mesmos Data Marts em linguagem natural via Telegram:
 
-👉 [E-commerce IA Agent](https://github.com/Jpmelof2/ProjetoEcommerceAgenteIA)
+👉 [E-commerce IA Agent](https://github.com/Jpmelof2/projeto-ecommerce-agente-ia)
 
 ## 👤 Autor
 
