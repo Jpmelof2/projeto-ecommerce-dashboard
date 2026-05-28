@@ -70,13 +70,13 @@ Dados Brutos (4 tabelas no PostgreSQL)
 ## 📸 Screenshots
 
 ### Vendas — Diretor Comercial
-![Vendas](screenshots/vendas.png)
+![Vendas](screenshots/vendas.jpeg)
 
 ### Clientes — Customer Success
-![Clientes](screenshots/clientes.png)
+![Clientes](screenshots/clientes.jpeg)
 
 ### Pricing — Competitividade de Preços
-![Pricing](screenshots/pricing.png)
+![Pricing](screenshots/pricing.jpeg)
 
 ## 🛠️ Tecnologias
 
